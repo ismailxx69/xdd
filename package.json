@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "discord.js": "^14.15.3",
+    "fs": "^0.0.1-security",
+    "mongoose": "^5.13.22"
+  },
+  "name": "mlhkn-main",
+  "version": "1.0.0",
+  "description": "A advanced template bot with the 14.6 version of discord.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
